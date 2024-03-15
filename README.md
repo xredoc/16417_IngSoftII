@@ -1,6 +1,6 @@
 # 16417_IngSoftII
 
-Actividad realizada por:
+Actividad realizada por:<br>
 Coronel Jorge<br>
-Noguera German
-Salazar Belén
+Noguera German<br>
+Salazar Belén<br>
